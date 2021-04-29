@@ -1,4 +1,4 @@
 # turtle-race
 
 Experimenting with Python Turtle package.
-Building a turtle race with randomised movement speed and winner.
+Building a turtle race with randomized movement speed and winner.
